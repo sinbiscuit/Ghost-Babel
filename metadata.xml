@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<metadata>
+    <name>Ghost Babel - Nightwatches!</name>
+    <directory>ghost babel - nightwatches!</directory>
+    <id>2807988501</id>
+    <description>REQUIRED MODS
+Antibirth Monster Library
+- https://steamcommunity.com/sharedfiles/filedetails/?id=2614001143
+
+The cut monster from Antibirth makes a return! The vigilant Nightwatch lurks in the darkness, calling in backup and despawning valuable goodies that could have been grabbed if they spot you!
+
+Adds 110 Nightwatch room scattered throughout Mausoleum, Ascent and maybe some other secrets?</description>
+    <version>1.6</version>
+    <visibility>Public</visibility>
+    <tag id="Rooms"/>
+    <tag id="Enemies"/>
+</metadata>
